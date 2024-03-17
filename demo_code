@@ -1,0 +1,1 @@
+<a target="_blank" title="Bluesky'da paylaş" rel="noreferrer" href="https://bsky.app/intent/compose?text=<?php the_title(); ?>%0A<?php the_permalink(); ?>">
