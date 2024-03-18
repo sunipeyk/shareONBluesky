@@ -1,1 +1,1 @@
-Simply share your WordPress post on Bluesky social platform wit this main code. 
+Simply share your WordPress post on Bluesky social platform with this main code. 
